@@ -1,0 +1,37 @@
+[
+  {
+    "name": "graphes",
+    "path": "/graphes",
+    "component": "/Users/macbook/Desktop/work/font_end/nuxt-app/src/pages/graphes.vue",
+    "chunkName": "pages/graphes",
+    "_name": "_2fdf1b14"
+  },
+  {
+    "name": "loginOld",
+    "path": "/loginOld",
+    "component": "/Users/macbook/Desktop/work/font_end/nuxt-app/src/pages/loginOld.vue",
+    "chunkName": "pages/loginOld",
+    "_name": "_0805e674"
+  },
+  {
+    "name": "page-form",
+    "path": "/page/form",
+    "component": "/Users/macbook/Desktop/work/font_end/nuxt-app/src/pages/page/form.vue",
+    "chunkName": "pages/page/form",
+    "_name": "_083787be"
+  },
+  {
+    "name": "page-login",
+    "path": "/page/login",
+    "component": "/Users/macbook/Desktop/work/font_end/nuxt-app/src/pages/page/login.vue",
+    "chunkName": "pages/page/login",
+    "_name": "_2f01475f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/macbook/Desktop/work/font_end/nuxt-app/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0e3e3e4c"
+  }
+]

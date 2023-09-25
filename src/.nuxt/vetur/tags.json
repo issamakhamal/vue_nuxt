@@ -1,0 +1,14 @@
+{
+  "Alert": {
+    "description": "Auto imported from components/Alert.vue"
+  },
+  "Form": {
+    "description": "Auto imported from components/Form.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  }
+}
